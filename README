@@ -1,0 +1,14 @@
+https://www.geeksforgeeks.org/interfaces-in-java/
+https://www.geeksforgeeks.org/date-class-java-examples/
+https://docs.oracle.com/javase/7/docs/api/java/util/Date.html
+https://docs.oracle.com/javase/7/docs/api/java/util/Calendar.html
+https://www.geeksforgeeks.org/calendar-class-in-java-with-examples/
+https://stackoverflow.com/questions/36772489/convert-date-string-into-epoch-in-java/36772692
+https://docs.oracle.com/javase/8/docs/api/java/text/SimpleDateFormat.html
+
+
+Notes:
+About 5 hrs spent on project.
+large amounts of testing was not done due to time constraints and not wanting to go far above 5 hours to invalidate the prompt.
+some of the quick and dirty solutions provide incorrect responses. THIS was done knowingly to show how purely mathmatical approacches can get
+  large, complicated, or lead to incorrect results.

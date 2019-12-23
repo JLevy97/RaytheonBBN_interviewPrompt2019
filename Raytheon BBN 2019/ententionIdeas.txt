@@ -1,0 +1,7 @@
+include meeting times in file --> could be parsed so that multiple events could land on same day
+store file contents and program outputs to database
+creation of different input functions which would allow for different date formats to be used
+A GUI which would hide back end
+On the spot user intractability --> user could input start/end dates and event days without need for files
+file flexability --> change name of input files as well as change format of files
+add the ability to search for events within the list cumulative list of events.
